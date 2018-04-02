@@ -7,3 +7,7 @@
   display: block;
   margin: 10%;
 }
+
+#brand-image {
+  border-radius: 10%;
+}
